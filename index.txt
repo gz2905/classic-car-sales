@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Classic Car Sales Europe</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Classic Car Sales in Europe</h1>
+    <p>Discover timeless classics and find your next vintage vehicle</p>
+  </header>
+
+  <section class="car-list">
+    <article class="car-card">
+      <img src="images/mercedes-300sl.jpg" alt="Mercedes-Benz 300SL" />
+      <h2>Mercedes-Benz 300SL</h2>
+      <p><strong>Year:</strong> 1955</p>
+      <p><strong>Location:</strong> Munich, Germany</p>
+      <p><strong>Description:</strong> Iconic gull-wing doors and unmatched performance of its time.</p>
+    </article>
+
+    <article class="car-card">
+      <img src="images/jaguar-e-type.jpg" alt="Jaguar E-Type" />
+      <h2>Jaguar E-Type</h2>
+      <p><strong>Year:</strong> 1961</p>
+      <p><strong>Location:</strong> London, United Kingdom</p>
+      <p><strong>Description:</strong> A true British legend, praised by Enzo Ferrari as "the most beautiful car ever made."</p>
+    </article>
+
+    <article class="car-card">
+      <img src="images/fiat-500.jpg" alt="Fiat 500" />
+      <h2>Fiat 500</h2>
+      <p><strong>Year:</strong> 1969</p>
+      <p><strong>Location:</strong> Rome, Italy</p>
+      <p><strong>Description:</strong> A compact urban classic loved across generations in Italy.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Classic Car Sales Europe. All rights reserved.</p>
+  </footer>
+</body>
+</html>
